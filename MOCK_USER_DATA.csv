@@ -9,7 +9,7 @@ id,first_name,last_name,email,gender,age
 8,Nye,Anthiftle,nanthiftle7@examiner.com,Agender,99
 9,Der,Neames,dneames8@ycombinator.com,Bigender,77
 10,David,Meredyth,dmeredyth9@telegraph.co.uk,Female,68
-11,Elijah,Heine,eheinea@imdb.com,Bigender,85
+11,Elijah,Heine,eheinea@imdb.com,Bigender,-85
 12,Raffaello,Firminger,rfirmingerb@bloomberg.com,Female,74
 13,Kristan,Abriani,kabrianic@phoca.cz,Polygender,29
 14,Mariana,Shevels,mshevelsd@msn.com,Agender,60
@@ -17,9 +17,9 @@ id,first_name,last_name,email,gender,age
 16,Anny,Rodway,arodwayf@examiner.com,Non-binary,87
 17,Byram,Martynikhin,bmartynikhing@jiathis.com,Male,40
 18,Artemus,Shovelin,ashovelinh@sphinn.com,Non-binary,58
-19,Luisa,Bradborne,lbradbornei@fema.gov,Female,75
+19,Luisa,Bradborne,lbradbornei@fema.gov,Female,-75
 20,Arlie,Mintram,amintramj@soundcloud.com,Bigender,41
-21,Levin,Worner,lwornerk@ihg.com,Genderqueer,43
+21,Levin,Worner,lwornerk@ihg.com,Genderqueer,-43
 22,Ray,Padly,rpadlyl@twitpic.com,Male,85
 23,Linnell,Picot,lpicotm@biblegateway.com,Genderfluid,79
 24,Mart,Brosel,mbroseln@cdc.gov,Genderfluid,22
@@ -31,12 +31,12 @@ id,first_name,last_name,email,gender,age
 30,Linn,Mc Mechan,lmcmechant@sina.com.cn,Genderfluid,33
 31,Barbabas,Ginnety,bginnetyu@oaic.gov.au,Genderqueer,87
 32,Mirabelle,Matthewson,mmatthewsonv@list-manage.com,Agender,44
-33,Ebenezer,Greeves,egreevesw@myspace.com,Male,26
+33,Ebenezer,Greeves,egreevesw@myspace.com,Male,-26
 34,Brooks,Vose,bvosex@amazon.com,Female,34
 35,Deeanne,Iamittii,diamittiiy@nifty.com,Bigender,39
 36,Axe,Arundel,aarundelz@yahoo.com,Female,14
 37,Daisie,Self,dself10@addthis.com,Agender,33
-38,Hana,Langwade,hlangwade11@washingtonpost.com,Genderqueer,42
+38,Hana,Langwade,hlangwade11@washingtonpost.com,Genderqueer,-42
 39,Godard,Miere,gmiere12@1688.com,Polygender,3434
 40,Moria,Boullin,mboullin13@illinois.edu,Agender,8
 41,Katheryn,Ashleigh,kashleigh14@devhub.com,Agender,36
@@ -88,7 +88,7 @@ id,first_name,last_name,email,gender,age
 87,Peder,Murrie,pmurrie2e@bloglovin.com,Male,69
 88,Kain,Dumphries,kdumphries2f@hugedomains.com,Male,93
 89,Ebonee,Eastbury,eeastbury2g@smh.com.au,Genderqueer,16
-90,Zachariah,Meins,zmeins2h@weather.com,Male,69
+90,Zachariah,Meins,zmeins2h@weather.com,Male,-69
 91,Judas,Maffin,jmaffin2i@dropbox.com,Male,3
 92,Yuri,Fahey,yfahey2j@pbs.org,Non-binary,37
 93,Fairfax,Juleff,fjuleff2k@narod.ru,Polygender,84
